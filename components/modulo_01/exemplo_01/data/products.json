@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Fones de Ouvido Sem Fio",
+    "category": "eletrônicos",
+    "price": 129.99,
+    "color": "preto",
+    "image": "https://picsum.photos/seed/Fones/1080/1080"
+  },
+  {
+    "id": 2,
+    "name": "Relógio Inteligente",
+    "category": "eletrônicos",
+    "price": 199.99,
+    "color": "prata",
+    "image": "https://picsum.photos/seed/relogio/1080/1080"
+  },
+  {
+    "id": 3,
+    "name": "Caixa de Som Bluetooth",
+    "category": "eletrônicos",
+    "price": 89.99,
+    "color": "azul",
+    "image": "https://picsum.photos/seed/som/1080/1080"
+  },
+  {
+    "id": 4,
+    "name": "Camiseta Estampada",
+    "category": "vestuário",
+    "price": 49.99,
+    "color": "branco",
+    "image": "https://picsum.photos/seed/camiseta/1080/1080"
+  },
+  {
+    "id": 5,
+    "name": "Calça Jeans Slim",
+    "category": "vestuário",
+    "price": 99.99,
+    "color": "azul",
+    "image": "https://picsum.photos/seed/jeans/1080/1080"
+  },
+  {
+    "id": 6,
+    "name": "Tênis Esportivo",
+    "category": "calçados",
+    "price": 149.99,
+    "color": "vermelho",
+    "image": "https://picsum.photos/seed/tenis/1080/1080"
+  },
+  {
+    "id": 7,
+    "name": "Sandália Casual",
+    "category": "calçados",
+    "price": 69.99,
+    "color": "bege",
+    "image": "https://picsum.photos/seed/casual/1080/1080"
+  },
+  {
+    "id": 8,
+    "name": "Boné Estiloso",
+    "category": "acessórios",
+    "price": 39.99,
+    "color": "preto",
+    "image": "https://picsum.photos/seed/bone/1080/1080"
+  },
+  {
+    "id": 9,
+    "name": "Mochila Executiva",
+    "category": "acessórios",
+    "price": 159.99,
+    "color": "cinza",
+    "image": "https://picsum.photos/seed/mochila/1080/1080"
+  },
+  {
+    "id": 10,
+    "name": "Óculos de Sol",
+    "category": "acessórios",
+    "price": 89.99,
+    "color": "marrom",
+    "image": "https://picsum.photos/seed/oculos/1080/1080"
+  }
+]

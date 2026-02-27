@@ -27,7 +27,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="pt-BR" suppressHydrationWarning>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
@@ -42,7 +42,6 @@ export default function RootLayout({
             <SidebarInset className="w-[calc(100vw-18rem)]">
               {children}
             </SidebarInset>
-            <ModeToggle />
           </SidebarProvider>
         </ThemeProvider>
       </body>

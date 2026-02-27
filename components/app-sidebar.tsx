@@ -61,14 +61,22 @@ const data = {
           title: "Exemplo 00",
           url: "/modulo_01/exemplo_00",
         },
-        // {
-        //   title: "Starred",
-        //   url: "#",
-        // },
-        // {
-        //   title: "Settings",
-        //   url: "#",
-        // },
+        {
+          title: "Exemplo 01",
+          url: "/modulo_01/exemplo_01",
+        },
+        {
+          title: "Exemplo 02",
+          url: "/modulo_01/exemplo_02",
+        },
+        {
+          title: "Exemplo 03",
+          url: "/modulo_01/exemplo_03",
+        },
+        {
+          title: "Exemplo 04",
+          url: "/modulo_01/exemplo_04",
+        },
       ],
     },
     // {

@@ -9,9 +9,12 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { ToolUIPart } from "ai";
-import { Spinner } from "../ui/spinner";
 import { cn } from "@/lib/utils";
-import { CodeBlock, CodeBlockCopyButton } from "../ai-elements/code-block";
+import { Spinner } from "@/components/ui/spinner";
+import {
+  CodeBlock,
+  CodeBlockCopyButton,
+} from "@/components/ai-elements/code-block";
 
 interface Pessoa {
   nome: string;
